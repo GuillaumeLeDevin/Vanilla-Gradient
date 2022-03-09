@@ -29,6 +29,9 @@ body {
 .container-color {
     flex-direction: column;
 }
+.container-color input:nth-child(2) {
+    border: 3px solid #333;
+}
 
 input {
     width: 100%;
